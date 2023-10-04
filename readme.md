@@ -33,6 +33,8 @@ The highest acceptance rate for bar coupons will come from those who go to a bar
 
 
 ### Independent Investigation:
+From the independent portion of this analysis, we draw the following conclusions about the characteristics of the population with the highest coupon engagement rate:
+
 1. Their acceptance is higher for coupons of type "Coffee House", "Restaurant(<20)" and "Carry out & Take Away". 
 2. They're of age "21 through 30", almost equally distributed among males and females, and with no children.   
 3. Most of the population drives alone, followed by the population that travel with friends.
