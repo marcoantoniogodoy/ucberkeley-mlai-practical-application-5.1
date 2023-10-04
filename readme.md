@@ -1,12 +1,12 @@
-# Practical Application Assigment 5.1: Will the Customer Accept the Coupon?
+# Practical Application Assignment 5.1: Will the Customer Accept the Coupon?
 
 ## Overview:
-This repository contains an data analysis performed by Marco A. Godoy as part of the Practical Application Assigment for the UC Berkley Professional Certificate in ML/AI Program 2023.   
+This repository contains an data analysis performed by Marco A. Godoy as part of the Practical Application Assignment 5.1 for the UC Berkeley Professional Certificate in ML/AI Program 2023.   
 
-For a link to the Jupyter Notebook, please click here: 
+For a link to the Jupyter Notebook, please click here: <br/>
 https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-5.1/blob/main/prompt.ipynb
 
-Contact Information:
+Contact Information:<br/>
 https://www.linkedin.com/in/marco-antonio-godoy
 
 ## Data:
@@ -32,9 +32,9 @@ The highest acceptance rate for bar coupons will come from those that go to a ba
 
 
 ### Independent Investigation:
-From this independent analysis, we draw the following conclusions about the characteristics of the population with the highest coupon engagement rate:
+From the independent portion of the analysis, we draw the following conclusions about the characteristics of the population with the highest coupon engagement rate:
 
-1. They're acceptance is higher for coupons of type "Coffee House", "Restaurant(<20)" and "Carry out & Take Away". 
+1. Their acceptance is higher for coupons of type "Coffee House", "Restaurant(<20)" and "Carry out & Take Away". 
 2. They're of age "21 through 30", almost equally distributed among males and females, and with no children.   
 3. The majority of the population drives alone, followed by the population thats travel with friends.
     - There is a higher engagement from those traveling alone in opposite direction to work. 
@@ -47,11 +47,13 @@ From this independent analysis, we draw the following conclusions about the char
 8. The vast majority of the coupons were accepted on a sunny day, with a higher proportion when the temperature is 80 F. 
 9. The highest acceptance is at 6PM, with a higher proportion on coupons expiring witin 1 day (1d).  
 10. This population visits all establishment types 1~3 times per month, with a higher proportion on the "carry_away" establishement type.   
-11. Ther's almost an exact proportion (~37%) from those with a "Bachelors degree" and those with "Some colle - no degree".  
+11. There's almost an exact proportion (~37%) of those with a "Bachelors degree" and those with "Some colle - no degree".  
 12. Other characteristics about this population: 
 	- They do not have children.
 	- They accept the coupons when in a distance to the coupon within 15min and 25min.
 	- They drive in the opposite direction to their destination when they accept the coupon.
 
 ## Next Steps & Recommendations:
-Although we've been able to obtain valuable insights from this analyzis, the fact that so many entries do not have a value (NULL) in the car column represents a concern on the quality of the results obtained. The assumption throughout the this analysis was that entries without car information still represented drivers. This assumption is supported by the fact that most of those entries also contained "passanger" information. Also, from the description provided with the dataset it can be inferred that all entries contained information about drivers. However, a recommended next step would to find out why this information was missing and try to obtain from another source if possible. Once available, it would be best to run this analysis again and compare results.
+Although we've been able to obtain valuable insights from this analyzis, the fact that so many entries do not have a value (NULL) in the car column represents a concern on the quality of the results obtained. The assumption throughout the this analysis was that entries without car information still represented drivers. This assumption is supported by the fact that most of those entries also contained "passanger" information. Also, from the description provided with the dataset it can be inferred that all entries contained information about drivers. 
+
+However, a recommended next step would to find out why this information was missing and try to obtain it from another source if possible. Once available, it would be best to run this analysis again and compare results.
