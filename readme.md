@@ -15,7 +15,8 @@ This data comes to us from the UCI Machine Learning repository and was collected
 ## Summary of the results obtained from the analysis
 
 ### Conducted Analysis:
-- Overall acceptance rate of bar coupons: 41.0%
+From the conducted portion of this analysis, we draw the following results about the population that accepts bar coupons:
+- Overall acceptance rate: 41.0%
 - Acceptance rate by group:
     - Those who went to a bar 3 or fewer times in a month: 37.1% 
     - Those who went to a bar more than 3 times in a month: 76.9%
