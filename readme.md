@@ -1,7 +1,7 @@
 # Practical Application Assignment 5.1: Will the Customer Accept the Coupon?
 
 ## Overview:
-This repository contains an data analysis performed by Marco A. Godoy as part of the Practical Application Assignment 5.1 for the UC Berkeley Professional Certificate in ML/AI Program 2023.   
+This repository contains a data analysis performed by Marco A. Godoy as part of the Practical Application Assignment 5.1 for the UC Berkeley Professional Certificate in ML/AI Program (2023).   
 
 For a link to the Jupyter Notebook, please click here: <br/>
 https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-5.1/blob/main/prompt.ipynb
